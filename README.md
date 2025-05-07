@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Hi, I'm [LiuTongXue]!
 
-<!--
-**A-Juran/A-Juran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile views](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=green)
 
-Here are some ideas to get you started:
+## 🧑‍💻 About Me
+- 🔭 I’m currently working on: [项目或主题]
+- 🌱 I’m currently learning: [正在学习的技术/语言]
+- 💬 Ask me about: [你擅长的内容]
+- 📫 How to reach me: [你的邮箱或其他联系方式]
+- 🌐 Website: [你的个人网站链接]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Vue](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+
+## 📈 GitHub Stats
+![你的用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+
+## 📂 Projects
+- [项目1名称](链接) - 简要描述
+- [项目2名称](链接) - 简要描述
+
+## 🎯 Fun Facts
+- 🐱 喜欢猫
+- 🚴 爱好骑行
+- 🧩 喜欢解决问题
