@@ -11,15 +11,18 @@
 
 ## 🛠️ Skills
 
-<!-- ![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript) -->
 ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=Android)
 ![Vue](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
+![PHP](https://img.shields.io/badge/-PHP-333?style=flat&logo=PHP)
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML5-333?style=flat&logo=html5)
+![CSS](https://img.shields.io/badge/-CSS3-333?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+
 
 ## 📈 GitHub Stats
 ![TongXue-Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TongXue-Liu&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact) -->
 
 <!-- ## 📂 Projects -->
 <!-- - [项目1名称](链接) - 简要描述
