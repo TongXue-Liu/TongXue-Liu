@@ -21,9 +21,10 @@
 
 
 ## 📈 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact&theme=radical)
 ![TongXue-Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TongXue-Liu&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact&card_width=465&theme=radical)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact&card_width=465&theme=radical) -->
 
 
 <!-- ## 📂 Projects -->
