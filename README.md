@@ -22,7 +22,7 @@
 
 ## 📈 GitHub Stats
 ![TongXue-Liu's GitHub stats](https://github-readme-stats.vercel.app/api?username=TongXue-Liu&show_icons=true&theme=radical)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact) -->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact)
 
 <!-- ## 📂 Projects -->
 <!-- - [项目1名称](链接) - 简要描述
