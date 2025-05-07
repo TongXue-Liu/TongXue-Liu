@@ -1,6 +1,6 @@
 # 👋 Hi, I'm [LiuTongXue]!
 
-![Profile views](https://komarev.com/ghpvc/?username=你的GitHub用户名&color=green)
+![Profile views](https://komarev.com/ghpvc/?username=TongXue-Liu&color=green)
 
 ## 🧑‍💻 About Me
 - 🔭 I’m currently working on: [项目或主题]
@@ -17,8 +17,8 @@
 ![Vue](https://img.shields.io/badge/-Vue.js-333?style=flat&logo=vue.js)
 
 ## 📈 GitHub Stats
-![你的用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact)
+![你的用户名's GitHub stats](https://github-readme-stats.vercel.app/api?username=TongXue-Liu&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TongXue-Liu&layout=compact)
 
 ## 📂 Projects
 - [项目1名称](链接) - 简要描述
