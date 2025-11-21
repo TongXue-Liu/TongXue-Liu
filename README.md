@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning: [Java/AI]
 <!-- - 💬 Ask me about: [你擅长的内容] -->
 <!-- - 📫 How to reach me: [你的邮箱或其他联系方式] -->
-- 🌐 Website: [www.aalo.cn]
+- 🌐 Website: [www.igaa.cc]
 
 ## 🛠️ Skills
 
